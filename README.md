@@ -1,4 +1,4 @@
-## Hi there 👋
+# Raximbek Raximov
 
 <!--
 **rakhim1502/rakhim1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
