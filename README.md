@@ -1,8 +1,8 @@
   # Raximbek Raximov
 
-  Frontend dasturchi.
+  Fullstack dasturchi.
 
-  [💼 Portfolio](https://rakhim1502.uz) | [💬 Telegram](https://t.me/R_15_02) | 📧 uzbrm95@gmail.com
+  [💼 Portfolio](https://rakhimdev.uz) | [💬 Telegram](https://t.me/R_15_02) | 📧 uzbrm95@gmail.com
 
 
   ## Texnologiyalar
