@@ -1,45 +1,87 @@
-  # Raximbek Raximov
+<div align="center">
 
-  Fullstack dasturchi.
+# Hi there, I'm Rakhimbek 👋
 
-  [💼 Portfolio](https://rakhimdev.uz) | [💬 Telegram](https://t.me/R_15_02) | 📧 uzbrm95@gmail.com
+### AI Engineer & Full-Stack Developer
+
+<p>
+  <a href="https://github.com/rakhim1502">
+    <img src="https://img.shields.io/github/followers/rakhim1502?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rakhim1502&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🤖 Passionate about **LLMs & Generative AI** — currently building advanced **RAG systems**
+- 💻 Full-Stack Developer with experience in both **frontend & backend**
+- 🌱 Always learning and exploring the latest in **AI Engineering**
+- 🎯 Goal: Build production-ready AI-powered applications
+- 📍 Based in Uzbekistan 🇺🇿
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF7262?style=for-the-badge&logo=weaviate&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 
-  ## Texnologiyalar
+> ⭐ More projects on my [repositories page](https://github.com/rakhim1502?tab=repositories)
 
-  <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  </p>
+---
 
+## 📊 GitHub Stats
 
-  ## So'nggi loyihalar
+<div align="center">
 
-  | Preview | Ta'rif |
-  |---|---|
-  | <img src="https://prnt.sc/ZQcOGla645Az" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/rakhim1502/ecommerce-product/">🧾 Repo</a> - <a href="https://ecommerce-product-rr.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
-  | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/rakhim1502/easybank">🧾 Repo</a> - <a href="https://easybank-raxim.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakhim1502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhim1502&layout=compact&langs_count=8&theme=tokyonight"/>
 
-  **<a href="https://rakhimdev.uz" target="_blank">💼 Barcha loyihalar</a>**
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhim1502&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-  ## Sahifalar
+---
 
-  <p align="left">
-    <a href="https://instagram.com/rakhimpvv15_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadjavohirsuratov" height="30" width="40" /></a>
-  </p>
+## 📫 Contact
 
-  ## GitHub statistikasi
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhim1502&show_icons=true&locale=en&layout=compact" alt="rakhim1502" /></p>
+<div align="center">
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhim1502&show_icons=true&locale=en" alt="rakhim1502" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakhim1502)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raximbek-raximov-42b99633b)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r_15_02)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzbrm95@gmail.com)
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakhim1502&" alt="rakhim1502" /></p>
+</div>
+
+---
+
+<div align="center">
+  <i>"Building intelligent systems, one model at a time." 🤖</i>
+</div>
